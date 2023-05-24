@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    text-align: center;
+
+}
+
+div {
+    text-align: center;
+    text-size-adjust: 30px;
+}
+
+button {
+    border-radius: 8px;
+    padding: 10px;
+    border-color: red;
+}
